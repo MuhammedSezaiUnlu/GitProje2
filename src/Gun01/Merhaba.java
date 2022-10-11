@@ -8,7 +8,7 @@ public class Merhaba {
         }
     int sayac=0;
         do {
-            System.out.println("yeni Merhaba");
+            System.out.println("yeni merhaba");
             sayac++;
     }while (sayac<5);
 
